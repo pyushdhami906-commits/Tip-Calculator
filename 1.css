@@ -1,0 +1,42 @@
+.contaniner{
+    background-color:white;
+    text-align: center;
+    padding :20px;
+    margin:20px;
+    border:1px;
+    box-shadow: 1px 1px 10px;
+}
+body{
+    background-color: aliceblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+
+}
+input{
+   
+    height:30px;
+    width:100%;
+}
+button{
+    background-color: rgb(7, 176, 44);
+    width:100%;
+    padding:15px;
+    color:white;
+    margin-top: 30px;
+}
+.box{
+    text-align: left;
+    
+}
+
+p{
+    text-align: center;
+    font-weight:bold ;
+    font-size:22px;
+}
+h1{
+    font-family: sans-serif;
+    color:rgb(46, 19, 19)
+}
